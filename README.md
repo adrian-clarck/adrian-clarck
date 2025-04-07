@@ -7,11 +7,12 @@
 
 🌱 Early in the game, but growing fast.
 
-# Contact
+# | Contact |
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adrian.clarck@aluno.senai.br) Student
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adrian.clarck209@gmail.com) Personal
 
+# 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrian-clarck/adrian-clarck/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrian-clarck/adrian-clarck/output/github-contribution-grid-snake.svg">
