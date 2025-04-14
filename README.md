@@ -2,7 +2,7 @@
 
 🎓 15 y.o. student at SENAI & High School — learning, tinkering, evolving.
 
-🛠️ Exploring the technical world with a bit of curiosity and a lot of coffee.
+🛠️ Exploring the technical world with a bit of curiosity and a lot of energy drink.
 
 💡 I like building things, breaking them (by accident), and learning how to fix it all again.
 
