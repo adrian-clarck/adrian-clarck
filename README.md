@@ -1,12 +1,10 @@
 # | Hey there! I'm Adrian Clarck |
 
-🎓 16 y.o. student at SENAI & High School — learning, tinkering, evolving.
+🎓 17 y.o. student at SENAI & High School — learning, tinkering, evolving.
 
 🛠️ Exploring the technical world with a bit of curiosity and a lot of energy drink.
 
-💡 I like building things, breaking them (by accident), and learning how to fix it all again.
-
-🌱 Early in the game, but growing fast.
+🌱 Early in the game.
 
 ---
 
